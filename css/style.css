@@ -1,0 +1,38 @@
+#map {
+    height: 80vh;
+    width: 100%;
+}
+
+.navbar {
+    background-color: black;
+    padding-left: 0px;
+    margin-left: 0px;
+    padding-top: 17px;
+    padding-bottom: 15px;
+}
+
+.navbar-header {
+    color: skyblue;
+}
+
+.container {
+    margin-left: 0px;
+    padding: 0px;
+}
+
+body {
+    font-family: "Verdana";
+}
+
+.form-control {
+    width: 80%;
+}
+
+.locations {
+    list-style: none;
+    color: white;
+    cursor: pointer;
+}
+#menu-toggle:hover {
+  cursor: pointer;
+}
